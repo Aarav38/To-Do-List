@@ -1,2 +1,2 @@
 # To-Do-List
-Python Flask Webpage for a TODO list with AWS/MYSQL Backend
+Python Application for a TODO list 
